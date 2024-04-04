@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Post from "./Post";
 
 function App() {
   return (
-    <div className="App">
-      //test comment
+    <div>
+      <Post username="Abhi"/>
     </div>
   );
 }
